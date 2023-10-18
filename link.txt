@@ -1,3 +1,2 @@
-This should be the link...
-https://github.com/keatonfi/keatonfi.github.io.git
-
+This should be the link... I followed what you said in the email.
+https://keatonfi.github.io/
